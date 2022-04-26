@@ -1,1 +1,2 @@
-
+Ubuntu自动部署AutoMihoyoBBS
+其他Linux系统自测
